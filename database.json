@@ -1,13 +1,13 @@
 {
-  "allowedIps": ["114.79.18.98", "114.79.18.97"],
+  "allowedIps": ["114.79.20.254", "114.79.20.234"],
   "users": [
     {
-      "username": "fall",
-      "password": "fall123"
+      "username": "pond",
+      "password": "pond123"
     },
     {
-      "username": "ella",
-      "password": "ella123"
+      "username": "nand",
+      "password": "nand123"
     }
   ]
 }
